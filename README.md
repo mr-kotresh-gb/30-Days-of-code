@@ -1,2 +1,2 @@
 # 30-Days-of-code
-HackerRank
+HackerRank problems with my codes
