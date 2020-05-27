@@ -1,3 +1,5 @@
+//source - https://www.hackerrank.com/challenges/30-hello-world/problem
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
